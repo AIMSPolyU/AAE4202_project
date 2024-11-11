@@ -1,0 +1,3 @@
+[submodule "project_session_5/uav_trajectory"]
+	path = project_session_5/uav_trajectory
+	url = https://github.com/whoenig/uav_trajectories.git

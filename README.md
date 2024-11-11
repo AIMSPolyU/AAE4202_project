@@ -8,3 +8,4 @@ Resources for each project session will be released before the session starts, a
 - [ ] Project session 2 (To be familiar with hardware)
 - [ ] Project session 3 (To implement controllers)
 - [X] Project session 4 (To implement planners)
+- [x] Project session 5 (Advanced trajectory generation)
